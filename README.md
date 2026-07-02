@@ -24,7 +24,8 @@ Identify the highest-paying Data Analyst jobs with available salary information.
 
 ## SQL Query
 
-![Query 1 SQL](images/query1_sql.png)
+![Query 1 SQL](<img width="1918" height="1078" alt="Screenshot 2026-07-02 160710" src="https://github.com/user-attachments/assets/b6febbe9-b0c6-4a79-a9e7-be3588669d7d" />
+).
 
 ---
 
