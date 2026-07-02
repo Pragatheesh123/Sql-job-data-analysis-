@@ -62,21 +62,15 @@ Identify the highest-paying Data Analyst jobs with available salary information.
 
 ### SQL Query
 
-<p align="center">
-<img src="QUERY_1_SQL_IMAGE_LINK" width="750">
-</p>
+<img width="650"  alt="Screenshot 2026-07-02 160710" src="https://github.com/user-attachments/assets/cad3b3d1-4b2f-4c7f-8c20-73b24a5a6a48" />
 
 ### Result Table
 
-<p align="center">
-<img src="QUERY_1_TABLE_IMAGE_LINK" width="650">
-</p>
+<img width="650"  alt="Screenshot 2026-07-02 160914" src="https://github.com/user-attachments/assets/144ef8f2-efe5-41c7-ace7-c13881ad069a" />
 
 ### Visualization
 
-<p align="center">
-<img src="QUERY_1_CHART_IMAGE_LINK" width="700">
-</p>
+<img width="650" alt="q1_1_chart" src="https://github.com/user-attachments/assets/fc289d2b-9027-452e-95d2-a4df47ce377c" />
 
 ### 📌 Key Insights
 
@@ -94,21 +88,15 @@ Determine the skills required for the highest-paying Data Analyst positions.
 
 ### SQL Query
 
-<p align="center">
-<img src="QUERY_2_SQL_IMAGE_LINK" width="750">
-</p>
+<img width="650"  alt="Screenshot 2026-07-02 160715" src="https://github.com/user-attachments/assets/a03aa643-da9a-4791-a4fc-bf085cb00bf1" />
 
 ### Result Table
 
-<p align="center">
-<img src="QUERY_2_TABLE_IMAGE_LINK" width="650">
-</p>
+<img width="650"  alt="Screenshot 2026-07-02 161011" src="https://github.com/user-attachments/assets/5e517082-85bf-4808-8741-2846603d25e1" />
 
 ### Visualization
 
-<p align="center">
-<img src="QUERY_2_CHART_IMAGE_LINK" width="700">
-</p>
+<img width="650"  alt="e1a33012-9d89-4df8-b426-552b8421f2f4" src="https://github.com/user-attachments/assets/e0734119-f2e5-4b30-b88a-7d449956d113" />
 
 ### 📌 Key Insights
 
@@ -127,21 +115,15 @@ Identify the most requested skills across Data Analyst job postings.
 
 ### SQL Query
 
-<p align="center">
-<img src="QUERY_3_SQL_IMAGE_LINK" width="750">
-</p>
+<img width="650" alt="Screenshot 2026-07-02 160722" src="https://github.com/user-attachments/assets/619cab7c-c094-45e6-8ef7-777c9b8e6af5" />
 
 ### Result Table
 
-<p align="center">
-<img src="QUERY_3_TABLE_IMAGE_LINK" width="650">
-</p>
+<img width="650"  alt="Screenshot 2026-07-02 161022" src="https://github.com/user-attachments/assets/c5d405a6-ba0d-4368-8030-a85f995e1900" />
 
 ### Visualization
 
-<p align="center">
-<img src="QUERY_3_CHART_IMAGE_LINK" width="700">
-</p>
+<img width="650"  alt="q3_chart" src="https://github.com/user-attachments/assets/3cb9584c-296b-4468-8a64-5cb7a25fd95d" />
 
 ### 📌 Key Insights
 
@@ -160,21 +142,15 @@ Identify the skills associated with the highest average salaries.
 
 ### SQL Query
 
-<p align="center">
-<img src="QUERY_4_SQL_IMAGE_LINK" width="750">
-</p>
+<img width="650" alt="Screenshot 2026-07-02 160725" src="https://github.com/user-attachments/assets/162667bc-286c-4129-b26d-873064b429a9" />
 
 ### Result Table
 
-<p align="center">
-<img src="QUERY_4_TABLE_IMAGE_LINK" width="650">
-</p>
+<img width="650"  alt="Screenshot 2026-07-02 161047" src="https://github.com/user-attachments/assets/1f7ad43e-6a50-4e0c-bf0e-e627c45a5e21" />
 
 ### Visualization
 
-<p align="center">
-<img src="QUERY_4_CHART_IMAGE_LINK" width="700">
-</p>
+<img width="650"  alt="q4_chart" src="https://github.com/user-attachments/assets/3df909f9-39b4-4e0f-a1b9-04aaf726e0af" />
 
 ### 📌 Key Insights
 
@@ -192,21 +168,15 @@ Find the skills that balance both **high demand** and **high salaries**.
 
 ### SQL Query
 
-<p align="center">
-<img src="QUERY_5_SQL_IMAGE_LINK" width="750">
-</p>
+<img width="650"  alt="Screenshot 2026-07-02 160730" src="https://github.com/user-attachments/assets/c7ed9e48-714b-4a13-a155-97fea740cd77" />
 
 ### Result Table
 
-<p align="center">
-<img src="QUERY_5_TABLE_IMAGE_LINK" width="650">
-</p>
+<img width="650"  alt="Screenshot 2026-07-02 161111" src="https://github.com/user-attachments/assets/c7b3ffb8-0158-48c8-ba38-94b8de09faac" />
 
 ### Visualization
 
-<p align="center">
-<img src="QUERY_5_CHART_IMAGE_LINK" width="700">
-</p>
+<img width="650"  alt="Screenshot 2026-07-02 205601" src="https://github.com/user-attachments/assets/5dabe1d1-0b8b-4e03-bea8-9955010fac4d" />
 
 ### 📌 Key Insights
 
