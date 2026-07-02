@@ -1,81 +1,116 @@
+<div align="center">
+
 # 📊 SQL Data Analyst Job Market Analysis
 
-## 📖 Overview
+Analyze the **2023 Data Analyst Job Market** using SQL and PostgreSQL to uncover salary trends, in-demand skills, and the most valuable skills for aspiring Data Analysts.
 
-This project explores the 2023 Data Analyst job market using SQL. The analysis answers five business questions related to salaries, required skills, market demand, and the most valuable skills to learn.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+</div>
 
 ---
 
-## 🛠️ Tools Used
+# 📖 Overview
 
-- PostgreSQL
-- SQL
-- VS Code
-- Git & GitHub
-- Matplotlib
-- Excel (for visualization)
+This project explores the **2023 Data Analyst Job Market** using **PostgreSQL** and **SQL** to answer real business questions about salaries and skills.
+
+After querying the database, I connected **Microsoft Excel** to PostgreSQL to import the query results and create visualizations that clearly communicate the findings.
+
+The project answers five key business questions:
+
+- 💰 Which Data Analyst jobs pay the highest salaries?
+- 🛠 Which skills are required for the highest-paying jobs?
+- 📈 Which skills are most in demand?
+- 💵 Which skills have the highest average salaries?
+- 🎯 Which skills offer the best combination of demand and salary?
+
+---
+
+# 🛠️ Technologies Used
+
+| Tool | Purpose |
+|------|----------|
+| PostgreSQL | Database |
+| SQL | Data Analysis |
+| VS Code | SQL Development |
+| Microsoft Excel | Connected to PostgreSQL for charts & visualizations |
+| Git & GitHub | Version Control & Project Hosting |
+
+---
+
+# 🔄 Project Workflow
+
+1. Connected PostgreSQL database to VS Code.
+2. Wrote SQL queries to answer business questions.
+3. Executed SQL queries.
+4. Connected Microsoft Excel to PostgreSQL.
+5. Imported SQL query results into Excel.
+6. Built charts and visualizations.
+7. Documented insights in GitHub.
 
 ---
 
 # 📈 Query 1 — Top Paying Data Analyst Jobs
 
-## Objective
+## 🎯 Objective
 
 Identify the highest-paying Data Analyst jobs with available salary information.
 
-## SQL Query
+### SQL Query
 
-<img width="1918" height="1078" alt="Screenshot 2026-07-02 160710" src="https://github.com/user-attachments/assets/a7ea6ca5-420c-4cf9-afa4-404e0c9f6fa3" />
+<p align="center">
+<img src="QUERY_1_SQL_IMAGE_LINK" width="750">
+</p>
 
+### Result Table
 
+<p align="center">
+<img src="QUERY_1_TABLE_IMAGE_LINK" width="650">
+</p>
 
----
+### Visualization
 
-## Result Table
+<p align="center">
+<img src="QUERY_1_CHART_IMAGE_LINK" width="700">
+</p>
 
-<img width="1433" height="788" alt="Screenshot 2026-07-02 160914" src="https://github.com/user-attachments/assets/aa1ff3f6-376b-4e5c-8d3c-47b7f48662ca" />
-
----
-
-## Visualization
-
-<img width="1600" height="1000" alt="q1_1_chart" src="https://github.com/user-attachments/assets/86353ff9-34c8-4af0-811c-2017dfbd7440" />
-
----
-
-### Key Insights
+### 📌 Key Insights
 
 - Highest salary reached **$650,000**
-- Remote positions dominate the highest salaries.
-- California companies appear frequently among the highest-paying employers.
+- Remote opportunities dominate the highest-paying jobs.
+- California companies appear frequently among the top salaries.
 
 ---
 
 # 📈 Query 2 — Skills Required for Top Paying Jobs
 
-## Objective
+## 🎯 Objective
 
-Find the skills required by the highest-paying Data Analyst positions.
+Determine the skills required for the highest-paying Data Analyst positions.
 
-## SQL Query
+### SQL Query
 
-<img width="1918" height="1078" alt="Screenshot 2026-07-02 160715" src="https://github.com/user-attachments/assets/360dab16-6dd4-4aad-a26d-683f18dd53a4" />
+<p align="center">
+<img src="QUERY_2_SQL_IMAGE_LINK" width="750">
+</p>
 
----
+### Result Table
 
-## Result Table
+<p align="center">
+<img src="QUERY_2_TABLE_IMAGE_LINK" width="650">
+</p>
 
-<img width="1421" height="840" alt="Screenshot 2026-07-02 161011" src="https://github.com/user-attachments/assets/ff02f281-8074-4e8a-bcdd-b81f649eb3cb" />
+### Visualization
 
----
+<p align="center">
+<img src="QUERY_2_CHART_IMAGE_LINK" width="700">
+</p>
 
-## Visualization
-
-<img width="1782" height="1123" alt="image" src="https://github.com/user-attachments/assets/e3ad20dc-4721-4b05-925b-a8247d2c9214" />
-
----
-
-### Key Insights
+### 📌 Key Insights
 
 - SQL appears in **8** of the top-paying jobs.
 - Python appears **7** times.
@@ -86,33 +121,32 @@ Find the skills required by the highest-paying Data Analyst positions.
 
 # 📈 Query 3 — Most In-Demand Skills
 
-## Objective
+## 🎯 Objective
 
-Find the most requested skills across Data Analyst job postings.
+Identify the most requested skills across Data Analyst job postings.
 
-## SQL Query
+### SQL Query
 
-<img width="1918" height="1078" alt="Screenshot 2026-07-02 160722" src="https://github.com/user-attachments/assets/1068750a-1a5d-4a14-9bf2-bcfc89f025b3" />
-)
+<p align="center">
+<img src="QUERY_3_SQL_IMAGE_LINK" width="750">
+</p>
 
----
+### Result Table
 
-## Result Table
+<p align="center">
+<img src="QUERY_3_TABLE_IMAGE_LINK" width="650">
+</p>
 
-<img width="1417" height="578" alt="Screenshot 2026-07-02 161022" src="https://github.com/user-attachments/assets/81acc4d2-ceea-4728-822e-46457a6049c7" />
+### Visualization
 
----
+<p align="center">
+<img src="QUERY_3_CHART_IMAGE_LINK" width="700">
+</p>
 
-## Visualization
+### 📌 Key Insights
 
-<img width="1600" height="1000" alt="q3_chart" src="https://github.com/user-attachments/assets/89118238-e785-4cdf-8e0e-bb55f266bc66" />
-
----
-
-### Key Insights
-
-- SQL is the most demanded skill.
-- Excel remains highly requested.
+- SQL is the most requested skill.
+- Excel remains highly demanded.
 - Python continues to be a core requirement.
 - Tableau and Power BI complete the top five.
 
@@ -120,74 +154,97 @@ Find the most requested skills across Data Analyst job postings.
 
 # 📈 Query 4 — Highest Paying Skills
 
-## Objective
+## 🎯 Objective
 
-Find the skills with the highest average salary.
+Identify the skills associated with the highest average salaries.
 
-## SQL Query
+### SQL Query
 
-<img width="1918" height="1078" alt="Screenshot 2026-07-02 160725" src="https://github.com/user-attachments/assets/8f597518-5037-47e3-97d1-84e3c5e13de4" />
+<p align="center">
+<img src="QUERY_4_SQL_IMAGE_LINK" width="750">
+</p>
 
----
+### Result Table
 
-## Result Table
+<p align="center">
+<img src="QUERY_4_TABLE_IMAGE_LINK" width="650">
+</p>
 
-<img width="1410" height="576" alt="Screenshot 2026-07-02 161047" src="https://github.com/user-attachments/assets/8acbf65e-57b2-4bf0-85f0-213123e3fd34" />
+### Visualization
 
----
+<p align="center">
+<img src="QUERY_4_CHART_IMAGE_LINK" width="700">
+</p>
 
-## Visualization
+### 📌 Key Insights
 
-<img width="1600" height="1000" alt="q4_chart" src="https://github.com/user-attachments/assets/662e42af-e159-4b53-ba18-5d19e519e497" />
-
----
-
-### Key Insights
-
-- Specialized technologies command the highest salaries.
-- Cloud and Big Data tools dominate the rankings.
-- Machine Learning skills significantly increase salary potential.
-
----
-
-# 📈 Query 5 — Most Optimal Skills
-
-## Objective
-
-Find skills that balance both high demand and high salaries.
-
-## SQL Query
-
-<img width="1918" height="1078" alt="Screenshot 2026-07-02 160730" src="https://github.com/user-attachments/assets/06c7ad0d-2b06-4964-9c66-aaf9ab3a1a3a" />
+- Specialized technologies command premium salaries.
+- Cloud and Big Data technologies dominate the highest-paying skills.
+- Machine Learning skills significantly increase earning potential.
 
 ---
 
-## Result Table
+# 📈 Query 5 — Most Optimal Skills to Learn
 
-<img width="1367" height="867" alt="Screenshot 2026-07-02 161111" src="https://github.com/user-attachments/assets/2cd0f54f-9ad9-4583-bdf0-a9f4c017a0dc" />
+## 🎯 Objective
 
----
+Find the skills that balance both **high demand** and **high salaries**.
 
-## Visualization
+### SQL Query
 
-<img width="617" height="527" alt="image" src="https://github.com/user-attachments/assets/b0e433a4-3936-487f-adeb-d48849d2bb1d" />
+<p align="center">
+<img src="QUERY_5_SQL_IMAGE_LINK" width="750">
+</p>
 
+### Result Table
 
----
+<p align="center">
+<img src="QUERY_5_TABLE_IMAGE_LINK" width="650">
+</p>
 
-### Key Insights
+### Visualization
 
-- Python provides excellent salary and demand.
-- Snowflake, Azure, AWS, and BigQuery are valuable cloud skills.
+<p align="center">
+<img src="QUERY_5_CHART_IMAGE_LINK" width="700">
+</p>
+
+### 📌 Key Insights
+
 - SQL remains the strongest foundational skill.
-- Cloud technologies offer the best long-term career value.
+- Python provides excellent demand and salary potential.
+- Snowflake, Azure, AWS, and BigQuery are valuable cloud technologies.
+- Cloud skills provide strong long-term career opportunities.
 
 ---
 
-# 📌 Final Conclusions
+# 📊 Overall Findings
 
-- SQL is the most valuable skill for Data Analysts.
-- Python is the best programming language to learn alongside SQL.
-- Tableau and Power BI remain the leading visualization tools.
-- Cloud technologies continue to grow in demand and salary.
-- Specialized skills command premium salaries but have lower demand.
+| Category | Best Skill |
+|-----------|------------|
+| Highest Demand | SQL |
+| Best Programming Language | Python |
+| Best Visualization Tool | Tableau |
+| Best Cloud Skill | Snowflake |
+| Best Overall Combination | SQL + Python |
+
+---
+
+# 🚀 Conclusion
+
+This project demonstrates how SQL can be used to answer real-world business questions through data analysis.
+
+By combining **PostgreSQL**, **SQL**, and **Microsoft Excel**, the project transforms raw job posting data into meaningful insights that help identify:
+
+- Highest-paying Data Analyst roles
+- Essential technical skills
+- Market demand trends
+- High-value career skills
+- Data-driven recommendations for aspiring Data Analysts
+
+---
+
+<div align="center">
+
+⭐ **If you found this project useful, consider giving it a star!**
+
+</div>
